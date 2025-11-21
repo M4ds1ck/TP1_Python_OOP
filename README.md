@@ -3,38 +3,6 @@
 Ce depot contient les exercices réalisés dans le cadre du **TP1 de Programmation Orientée Objet (POO)** en Python.  
 L’objectif principal est de mettre en pratique les concepts fondamentaux de la POO tels que les classes, les objets, les attributs, les méthodes, l’encapsulation et les propriétés.
 
----
-
-## Structure du TP1
-
-TP1_Python_OOP/
-│
-├── Exercice1/
-│ ├── compteur_page.py
-│ └── test_compteur_page.py
-│
-├── Exercice2/
-│ ├── article.py
-│ └── inventaire.py
-│
-├── Exercice3/
-│ ├── contact.py
-│ └── carnet.py
-│
-├── Exercice4/
-│ ├── cercle.py
-│ └── test_cercle.py
-│
-├── Exercice5/
-│ ├── journal.py
-│ └── test_journal.py
-│
-└── Exercice6/
-├── convertisseur.py
-└── test_convertisseur.py
-
-
----
 
 ## Contenu des exercices
 
