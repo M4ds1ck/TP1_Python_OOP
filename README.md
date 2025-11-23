@@ -49,6 +49,7 @@ cd TP1_Python_OOP/EXERCICE1
 ```bash
 python test_competur_page.py
 ```
+---
 
 ### 🖥️ Exemple d’output d'exercice 1:
 ```bash
