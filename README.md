@@ -1,10 +1,13 @@
-# TP1 – Programmation Orientée Objet en Python
+# TP1 Python POO 🎆
+
+[![Python Version](https://img.shields.io/badge/Python-3.x-blue)](https://www.python.org/)
 
 Ce depot contient les exercices réalisés dans le cadre du **TP1 de Programmation Orientée Objet (POO)** en Python.  
 L’objectif principal est de mettre en pratique les concepts fondamentaux de la POO tels que les classes, les objets, les attributs, les méthodes, l’encapsulation et les propriétés.
 
+---
 
-## Contenu des exercices
+## 📂 Contenu du LAB TP1
 
 ### Exercice 1 — Compteur de visites
 - Différenciation entre **attributs de classe** et **attributs d’instance**  
@@ -32,19 +35,32 @@ L’objectif principal est de mettre en pratique les concepts fondamentaux de la
 - Possibilité de mettre à jour le taux de conversion dynamiquement
 
 ---
+## 🚀 Utilisation
 
-## Objectifs pédagogiques
-Ce TP a permis de se familiariser avec :
+1. Cloner le dépôt ou télécharger le projet.
+```bash
+git clone https://github.com/M4ds1ck/TP1_Python_OOP.git
+```
+2. Aller dans le dossier de l’exercice voulu exemple :
+```bash
+cd TP1_Python_OOP/EXERCICE1
+```
+3. Lancer le script de test :
+```bash
+python test_competur_page.py
+```
 
-- La création et l’utilisation de classes et objets en Python  
-- La distinction entre **attributs d’instance** et **attributs de classe**  
-- Les propriétés, getters et setters pour sécuriser les données  
-- Les méthodes statiques et de classe  
-- La gestion des fichiers et des context managers (`with`)  
-- La manipulation d’objets dans des listes et la recherche filtrée
+### 🖥️ Exemple d’output d'exercice 1:
+```bash
+Page https://example.com/ — visites globales : 3
+Page https://example.com/blog — visites globales : 3
+Page https://example.com/contact — visites globales : 3
+```
 
 ---
 
-## Auteur
-**Mahmoud Moukouch - 2333447**  
-Université Cadi Ayyad – Marrakech  
+## 📌 Auteur
+
+**Nom :** Mahmoud Moukouch - 2333447 - m.moukouch2471@uca.ac.ma 
+**GitHub :** [M4ds1ck](https://github.com/M4ds1ck)  
+**Projet :** TP1 Python POO – Exercices de 1 a 6
